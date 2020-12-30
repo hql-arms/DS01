@@ -6,7 +6,8 @@ You don’t have to implement anything but requirements are as follows:
 - Credit Blacklist Data
 
 2. Which algorithm(s) would you propose.
-Logistic regression and SVM, because it is classification problems
+- Logistic regression 
+- SVM
  
 3. How would you build and train your model.
 - Problem Definition
@@ -20,10 +21,12 @@ Logistic regression and SVM, because it is classification problems
 - Test Finalize Model using new data(Financially distress 1/0)
 
 4. How would you productise the predictive financial distress model in order to consume it and update it (real time) with more data.
-Expose the API with input parameter their Financial Statement Data (We'll keep the data and can be used as train data in the future) and keep update the Credit Blacklist Data
+- Expose the API with input parameter their Financial Statement Data (We'll keep the data and can be used as train data in the future) 
+- Update the Credit Blacklist Data
 
 5. Which part is the most challenging? 
-Understanding the domain knowledge in limited time and Data Preparation (Data Exploration, Cleaning and Selection)
+- Understanding the domain knowledge in limited time 
+- Data Preparation (Data Exploration, Cleaning and Selection)
 
 6. How do you think this is gonna impact people's lives? 
 - We can give insight to the people by providing models to be used widely and remind them about their financial status or give a warning for their expense once they input the data in application for example. 
