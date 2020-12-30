@@ -32,3 +32,9 @@ You don’t have to implement anything but requirements are as follows:
 - We can give insight to the people by providing models to be used widely and remind them about their financial status or give a warning for their expense once they input the data in application for example. 
 - We can give insight for any companies that would like to check their financial status
 - We can give insight for government when they would like to have sampling about citizens financial status 
+
+
+Proposed Stack for this assignment : 
+- Python : Have many libraries and open source sample 
+- Jupyter Notebook or PyCharm (IDE for Python Script/Apps/Model Development)
+- MySQL/PostgreSQL/MongoDB : Saving Data for Archive and Future Needed (Training, Test and New Data)
